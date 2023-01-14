@@ -4,7 +4,6 @@ title: about
 permalink: /about/
 ---
 
-<img class="col one right" src="/img/prof_pic.jpg">
 
 <br/>
 Here I try to give shape to my failures.
